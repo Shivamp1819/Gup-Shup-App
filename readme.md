@@ -1,8 +1,3 @@
-Perfect 👍 Let’s make a professional **README.md** for your GitHub project **Gup-Shup MERN Chat App**.
-I’ll write it in a clean, structured way so your repo looks impressive 🚀
-
-Here’s a first draft:
-
 ---
 
 # Gup-Shup Chat App 💬
