@@ -3,6 +3,8 @@
 A **real-time chat application** built with the **MERN stack (MongoDB, Express.js, React, Node.js)**.
 It supports user authentication, private/public chats, and real-time messaging using **Socket.IO**.
 
+👉 **Live Demo:** [Gup-Shup Chat App](https://gup-shup-delta.vercel.app/)  
+
 ---
 
 ## 🚀 Features
